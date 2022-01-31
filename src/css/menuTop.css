@@ -1,0 +1,19 @@
+.MenuTop {
+  background-color: #212529;
+  width: 100%;
+  height: 100px;
+}
+
+.MenuTop ul {
+  display: flex;
+  justify-content: center;
+}
+
+.MenuTop ul li {
+  margin-top: 15px;
+  list-style: none;
+  background-color: white;
+  border-radius: 5px;
+  font-size: 35px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
